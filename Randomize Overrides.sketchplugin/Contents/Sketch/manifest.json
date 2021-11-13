@@ -1,0 +1,24 @@
+{
+  "author" : "",
+  "commands" : [
+    {
+      "script" : "script.js",
+      "name" : "Randomize Overrides",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
+    }
+  ],
+  "menu" : {
+    "title" : "Randomize Overrides",
+    "items" : [
+      "com.bohemiancoding.sketch.runscriptidentifier"
+    ]
+  },
+  "identifier" : "com.example.sketch.cb6f7d10-df43-4752-be48-cc75d020edfc",
+  "version" : "1.0",
+  "description" : "",
+  "authorEmail" : "",
+  "name" : "Randomize Overrides"
+}
