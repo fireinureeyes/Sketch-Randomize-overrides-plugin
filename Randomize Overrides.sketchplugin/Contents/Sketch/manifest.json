@@ -1,24 +1,24 @@
 {
-  "author" : "",
+  "author" : "Matej Rajtar",
   "commands" : [
     {
-      "script" : "script.js",
-      "name" : "Randomize Overrides",
+      "script" : "randomize overriden.js",
+      "name" : "Randomize overridden",
       "handlers" : {
         "run" : "onRun"
       },
-      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
-    }
+      "identifier" : "randomize overriden"
+    },
   ],
   "menu" : {
     "title" : "Randomize Overrides",
     "items" : [
-      "com.bohemiancoding.sketch.runscriptidentifier"
+      "randomize overriden",
     ]
   },
   "identifier" : "com.example.sketch.cb6f7d10-df43-4752-be48-cc75d020edfc",
   "version" : "1.0",
-  "description" : "",
+  "description" : "A Sketch plugin, which takes a selected symbol instance with overrides and shuffles them",
   "authorEmail" : "",
   "name" : "Randomize Overrides"
 }
